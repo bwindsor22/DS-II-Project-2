@@ -1,0 +1,100 @@
+[
+    {
+        "City1": 0,
+        "City2": 4,
+        "Name": "Road 0-4",
+        "Dist": 27.929923811900817,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 8,
+        "Name": "Road 1-8",
+        "Dist": 72.8307381193502,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 5,
+        "Name": "Road 2-5",
+        "Dist": 30.510072118895426,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 5,
+        "Name": "Road 3-5",
+        "Dist": 76.08412997239873,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 7,
+        "Name": "Road 6-7",
+        "Dist": 28.286731524260126,
+        "Local": true
+    },
+    {
+        "City1": 8,
+        "City2": 2,
+        "Name": "Road 8-2",
+        "Dist": 35.300751982392775,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 6,
+        "Name": "Road 9-6",
+        "Dist": 50.38811696115722,
+        "Local": true
+    },
+    {
+        "City1": 0,
+        "City2": 3,
+        "Name": "Road 0-3",
+        "Dist": 58.66924742439716,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 2,
+        "Name": "Road 1-2",
+        "Dist": 38.224470124911534,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 2,
+        "Name": "Road 3-2",
+        "Dist": 46.584287183139736,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 3,
+        "Name": "Road 4-3",
+        "Dist": 85.24983496963203,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 8,
+        "Name": "Road 5-8",
+        "Dist": 65.791322489322,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 1,
+        "Name": "Road 7-1",
+        "Dist": 30.84489362586581,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 7,
+        "Name": "Road 9-7",
+        "Dist": 32.84089041663079,
+        "Local": true
+    }
+]

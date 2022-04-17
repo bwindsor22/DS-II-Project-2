@@ -1,0 +1,100 @@
+[
+    {
+        "City1": 0,
+        "City2": 1,
+        "Name": "Road 0-1",
+        "Dist": 27.077076903115767,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 8,
+        "Name": "Road 1-8",
+        "Dist": 10.890823518731901,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 5,
+        "Name": "Road 2-5",
+        "Dist": 36.861621176955936,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 2,
+        "Name": "Road 3-2",
+        "Dist": 10.898362993486726,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 3,
+        "Name": "Road 4-3",
+        "Dist": 18.47000694620718,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 9,
+        "Name": "Road 5-9",
+        "Dist": 58.00542401387828,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 0,
+        "Name": "Road 6-0",
+        "Dist": 45.416297297795225,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 8,
+        "Name": "Road 7-8",
+        "Dist": 8.45316307155256,
+        "Local": true
+    },
+    {
+        "City1": 0,
+        "City2": 8,
+        "Name": "Road 0-8",
+        "Dist": 17.781957389226477,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 7,
+        "Name": "Road 1-7",
+        "Dist": 19.28854296933428,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 9,
+        "Name": "Road 2-9",
+        "Dist": 22.478429117271347,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 5,
+        "Name": "Road 3-5",
+        "Dist": 35.23788026356579,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 7,
+        "Name": "Road 4-7",
+        "Dist": 29.220147622888973,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 1,
+        "Name": "Road 6-1",
+        "Dist": 34.486002683135965,
+        "Local": true
+    }
+]

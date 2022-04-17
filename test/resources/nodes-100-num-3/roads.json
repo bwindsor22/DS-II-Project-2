@@ -1,0 +1,2081 @@
+[
+    {
+        "City1": 0,
+        "City2": 37,
+        "Name": "Road 0-37",
+        "Dist": 151.6709923366223,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 7,
+        "Name": "Road 1-7",
+        "Dist": 500.40246493003804,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 90,
+        "Name": "Road 2-90",
+        "Dist": 144.26749268656894,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 84,
+        "Name": "Road 3-84",
+        "Dist": 280.787566177466,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 23,
+        "Name": "Road 4-23",
+        "Dist": 254.88753323907505,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 10,
+        "Name": "Road 5-10",
+        "Dist": 52.46211398700358,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 41,
+        "Name": "Road 6-41",
+        "Dist": 17.37886365367972,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 31,
+        "Name": "Road 7-31",
+        "Dist": 256.0961368852519,
+        "Local": true
+    },
+    {
+        "City1": 8,
+        "City2": 46,
+        "Name": "Road 8-46",
+        "Dist": 34.88732147296791,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 17,
+        "Name": "Road 9-17",
+        "Dist": 223.67184557655904,
+        "Local": true
+    },
+    {
+        "City1": 10,
+        "City2": 85,
+        "Name": "Road 10-85",
+        "Dist": 346.08772291691173,
+        "Local": true
+    },
+    {
+        "City1": 11,
+        "City2": 46,
+        "Name": "Road 11-46",
+        "Dist": 156.99344875908295,
+        "Local": true
+    },
+    {
+        "City1": 12,
+        "City2": 87,
+        "Name": "Road 12-87",
+        "Dist": 113.40154363639456,
+        "Local": true
+    },
+    {
+        "City1": 13,
+        "City2": 69,
+        "Name": "Road 13-69",
+        "Dist": 106.71351689460376,
+        "Local": true
+    },
+    {
+        "City1": 14,
+        "City2": 53,
+        "Name": "Road 14-53",
+        "Dist": 95.11750483553719,
+        "Local": true
+    },
+    {
+        "City1": 15,
+        "City2": 38,
+        "Name": "Road 15-38",
+        "Dist": 50.942454152948784,
+        "Local": true
+    },
+    {
+        "City1": 16,
+        "City2": 75,
+        "Name": "Road 16-75",
+        "Dist": 185.3834439176363,
+        "Local": true
+    },
+    {
+        "City1": 18,
+        "City2": 28,
+        "Name": "Road 18-28",
+        "Dist": 108.69906353830682,
+        "Local": true
+    },
+    {
+        "City1": 19,
+        "City2": 41,
+        "Name": "Road 19-41",
+        "Dist": 564.3927250576216,
+        "Local": true
+    },
+    {
+        "City1": 20,
+        "City2": 16,
+        "Name": "Road 20-16",
+        "Dist": 97.4264101888029,
+        "Local": true
+    },
+    {
+        "City1": 21,
+        "City2": 95,
+        "Name": "Road 21-95",
+        "Dist": 118.01302418261382,
+        "Local": true
+    },
+    {
+        "City1": 22,
+        "City2": 51,
+        "Name": "Road 22-51",
+        "Dist": 281.6308699541136,
+        "Local": true
+    },
+    {
+        "City1": 24,
+        "City2": 70,
+        "Name": "Road 24-70",
+        "Dist": 285.6638337056825,
+        "Local": true
+    },
+    {
+        "City1": 25,
+        "City2": 76,
+        "Name": "Road 25-76",
+        "Dist": 239.65166474848294,
+        "Local": true
+    },
+    {
+        "City1": 26,
+        "City2": 37,
+        "Name": "Road 26-37",
+        "Dist": 365.80236217786444,
+        "Local": true
+    },
+    {
+        "City1": 27,
+        "City2": 32,
+        "Name": "Road 27-32",
+        "Dist": 388.36163407912994,
+        "Local": true
+    },
+    {
+        "City1": 28,
+        "City2": 62,
+        "Name": "Road 28-62",
+        "Dist": 84.7347488225667,
+        "Local": true
+    },
+    {
+        "City1": 29,
+        "City2": 33,
+        "Name": "Road 29-33",
+        "Dist": 130.85799950071666,
+        "Local": true
+    },
+    {
+        "City1": 30,
+        "City2": 19,
+        "Name": "Road 30-19",
+        "Dist": 178.10609287396207,
+        "Local": true
+    },
+    {
+        "City1": 34,
+        "City2": 72,
+        "Name": "Road 34-72",
+        "Dist": 319.8691113232753,
+        "Local": true
+    },
+    {
+        "City1": 35,
+        "City2": 89,
+        "Name": "Road 35-89",
+        "Dist": 142.90664769942728,
+        "Local": true
+    },
+    {
+        "City1": 36,
+        "City2": 95,
+        "Name": "Road 36-95",
+        "Dist": 75.2333191583973,
+        "Local": true
+    },
+    {
+        "City1": 38,
+        "City2": 96,
+        "Name": "Road 38-96",
+        "Dist": 69.87356942343062,
+        "Local": true
+    },
+    {
+        "City1": 39,
+        "City2": 90,
+        "Name": "Road 39-90",
+        "Dist": 59.47299125871773,
+        "Local": true
+    },
+    {
+        "City1": 40,
+        "City2": 51,
+        "Name": "Road 40-51",
+        "Dist": 328.1608586216941,
+        "Local": true
+    },
+    {
+        "City1": 42,
+        "City2": 44,
+        "Name": "Road 42-44",
+        "Dist": 359.407385812722,
+        "Local": true
+    },
+    {
+        "City1": 43,
+        "City2": 45,
+        "Name": "Road 43-45",
+        "Dist": 86.143362337816,
+        "Local": true
+    },
+    {
+        "City1": 45,
+        "City2": 67,
+        "Name": "Road 45-67",
+        "Dist": 25.906450540227166,
+        "Local": true
+    },
+    {
+        "City1": 47,
+        "City2": 48,
+        "Name": "Road 47-48",
+        "Dist": 8.44788888566306,
+        "Local": true
+    },
+    {
+        "City1": 49,
+        "City2": 72,
+        "Name": "Road 49-72",
+        "Dist": 916.172354430515,
+        "Local": true
+    },
+    {
+        "City1": 50,
+        "City2": 73,
+        "Name": "Road 50-73",
+        "Dist": 868.7121541115972,
+        "Local": true
+    },
+    {
+        "City1": 52,
+        "City2": 10,
+        "Name": "Road 52-10",
+        "Dist": 383.7645490766092,
+        "Local": true
+    },
+    {
+        "City1": 54,
+        "City2": 1,
+        "Name": "Road 54-1",
+        "Dist": 28.482232720163438,
+        "Local": true
+    },
+    {
+        "City1": 55,
+        "City2": 99,
+        "Name": "Road 55-99",
+        "Dist": 49.964800635438806,
+        "Local": true
+    },
+    {
+        "City1": 56,
+        "City2": 83,
+        "Name": "Road 56-83",
+        "Dist": 74.02797003257866,
+        "Local": true
+    },
+    {
+        "City1": 57,
+        "City2": 5,
+        "Name": "Road 57-5",
+        "Dist": 188.00905050456456,
+        "Local": true
+    },
+    {
+        "City1": 58,
+        "City2": 25,
+        "Name": "Road 58-25",
+        "Dist": 95.83206167723907,
+        "Local": true
+    },
+    {
+        "City1": 59,
+        "City2": 69,
+        "Name": "Road 59-69",
+        "Dist": 100.02237244110115,
+        "Local": true
+    },
+    {
+        "City1": 60,
+        "City2": 83,
+        "Name": "Road 60-83",
+        "Dist": 20.272286140269525,
+        "Local": true
+    },
+    {
+        "City1": 61,
+        "City2": 96,
+        "Name": "Road 61-96",
+        "Dist": 299.8563801291725,
+        "Local": true
+    },
+    {
+        "City1": 62,
+        "City2": 71,
+        "Name": "Road 62-71",
+        "Dist": 58.5797232186324,
+        "Local": true
+    },
+    {
+        "City1": 63,
+        "City2": 74,
+        "Name": "Road 63-74",
+        "Dist": 447.8026052684571,
+        "Local": true
+    },
+    {
+        "City1": 64,
+        "City2": 91,
+        "Name": "Road 64-91",
+        "Dist": 61.1575945282512,
+        "Local": true
+    },
+    {
+        "City1": 65,
+        "City2": 73,
+        "Name": "Road 65-73",
+        "Dist": 82.78982485809706,
+        "Local": true
+    },
+    {
+        "City1": 66,
+        "City2": 49,
+        "Name": "Road 66-49",
+        "Dist": 287.51466587968963,
+        "Local": true
+    },
+    {
+        "City1": 68,
+        "City2": 93,
+        "Name": "Road 68-93",
+        "Dist": 169.377977386182,
+        "Local": true
+    },
+    {
+        "City1": 77,
+        "City2": 81,
+        "Name": "Road 77-81",
+        "Dist": 240.754195601122,
+        "Local": true
+    },
+    {
+        "City1": 78,
+        "City2": 99,
+        "Name": "Road 78-99",
+        "Dist": 390.3857689138584,
+        "Local": true
+    },
+    {
+        "City1": 79,
+        "City2": 97,
+        "Name": "Road 79-97",
+        "Dist": 332.87298320789495,
+        "Local": true
+    },
+    {
+        "City1": 80,
+        "City2": 53,
+        "Name": "Road 80-53",
+        "Dist": 106.9553797736352,
+        "Local": true
+    },
+    {
+        "City1": 82,
+        "City2": 74,
+        "Name": "Road 82-74",
+        "Dist": 168.57898733494508,
+        "Local": true
+    },
+    {
+        "City1": 84,
+        "City2": 98,
+        "Name": "Road 84-98",
+        "Dist": 277.89958650548016,
+        "Local": true
+    },
+    {
+        "City1": 85,
+        "City2": 89,
+        "Name": "Road 85-89",
+        "Dist": 187.26933722272418,
+        "Local": true
+    },
+    {
+        "City1": 86,
+        "City2": 44,
+        "Name": "Road 86-44",
+        "Dist": 50.390945240179214,
+        "Local": true
+    },
+    {
+        "City1": 88,
+        "City2": 17,
+        "Name": "Road 88-17",
+        "Dist": 132.49502821926086,
+        "Local": true
+    },
+    {
+        "City1": 92,
+        "City2": 93,
+        "Name": "Road 92-93",
+        "Dist": 215.73751334392162,
+        "Local": true
+    },
+    {
+        "City1": 94,
+        "City2": 33,
+        "Name": "Road 94-33",
+        "Dist": 104.09887036013671,
+        "Local": true
+    },
+    {
+        "City1": 0,
+        "City2": 50,
+        "Name": "Road 0-50",
+        "Dist": 675.3419064689031,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 31,
+        "Name": "Road 1-31",
+        "Dist": 244.31863174086953,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 20,
+        "Name": "Road 2-20",
+        "Dist": 237.36561039748267,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 98,
+        "Name": "Road 3-98",
+        "Dist": 8.169351759060184,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 91,
+        "Name": "Road 4-91",
+        "Dist": 66.52161378925267,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 89,
+        "Name": "Road 5-89",
+        "Dist": 109.64411307929159,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 68,
+        "Name": "Road 6-68",
+        "Dist": 125.94919648502764,
+        "Local": true
+    },
+    {
+        "City1": 8,
+        "City2": 11,
+        "Name": "Road 8-11",
+        "Dist": 191.84631190987665,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 94,
+        "Name": "Road 9-94",
+        "Dist": 152.07410223708436,
+        "Local": true
+    },
+    {
+        "City1": 10,
+        "City2": 89,
+        "Name": "Road 10-89",
+        "Dist": 158.82470844447795,
+        "Local": true
+    },
+    {
+        "City1": 12,
+        "City2": 48,
+        "Name": "Road 12-48",
+        "Dist": 79.00375513071879,
+        "Local": true
+    },
+    {
+        "City1": 13,
+        "City2": 59,
+        "Name": "Road 13-59",
+        "Dist": 43.090496735058316,
+        "Local": true
+    },
+    {
+        "City1": 14,
+        "City2": 34,
+        "Name": "Road 14-34",
+        "Dist": 232.2256829380265,
+        "Local": true
+    },
+    {
+        "City1": 15,
+        "City2": 96,
+        "Name": "Road 15-96",
+        "Dist": 24.550842231568957,
+        "Local": true
+    },
+    {
+        "City1": 17,
+        "City2": 21,
+        "Name": "Road 17-21",
+        "Dist": 212.54874149082127,
+        "Local": true
+    },
+    {
+        "City1": 18,
+        "City2": 62,
+        "Name": "Road 18-62",
+        "Dist": 28.57485401632236,
+        "Local": true
+    },
+    {
+        "City1": 21,
+        "City2": 36,
+        "Name": "Road 21-36",
+        "Dist": 43.30941873333316,
+        "Local": true
+    },
+    {
+        "City1": 22,
+        "City2": 40,
+        "Name": "Road 22-40",
+        "Dist": 46.92850644414126,
+        "Local": true
+    },
+    {
+        "City1": 23,
+        "City2": 58,
+        "Name": "Road 23-58",
+        "Dist": 176.4458095405062,
+        "Local": true
+    },
+    {
+        "City1": 24,
+        "City2": 9,
+        "Name": "Road 24-9",
+        "Dist": 143.38880102829998,
+        "Local": true
+    },
+    {
+        "City1": 26,
+        "City2": 0,
+        "Name": "Road 26-0",
+        "Dist": 517.4730593298382,
+        "Local": true
+    },
+    {
+        "City1": 27,
+        "City2": 56,
+        "Name": "Road 27-56",
+        "Dist": 42.862971018616186,
+        "Local": true
+    },
+    {
+        "City1": 28,
+        "City2": 71,
+        "Name": "Road 28-71",
+        "Dist": 143.25584521016071,
+        "Local": true
+    },
+    {
+        "City1": 29,
+        "City2": 43,
+        "Name": "Road 29-43",
+        "Dist": 217.54707398707563,
+        "Local": true
+    },
+    {
+        "City1": 30,
+        "City2": 68,
+        "Name": "Road 30-68",
+        "Dist": 244.08522772411615,
+        "Local": true
+    },
+    {
+        "City1": 32,
+        "City2": 83,
+        "Name": "Road 32-83",
+        "Dist": 273.0268310883538,
+        "Local": true
+    },
+    {
+        "City1": 34,
+        "City2": 77,
+        "Name": "Road 34-77",
+        "Dist": 64.69178385072644,
+        "Local": true
+    },
+    {
+        "City1": 35,
+        "City2": 10,
+        "Name": "Road 35-10",
+        "Dist": 21.33363772333579,
+        "Local": true
+    },
+    {
+        "City1": 37,
+        "City2": 50,
+        "Name": "Road 37-50",
+        "Dist": 523.6757181828198,
+        "Local": true
+    },
+    {
+        "City1": 38,
+        "City2": 61,
+        "Name": "Road 38-61",
+        "Dist": 230.05182846325368,
+        "Local": true
+    },
+    {
+        "City1": 39,
+        "City2": 2,
+        "Name": "Road 39-2",
+        "Dist": 160.07832370761312,
+        "Local": true
+    },
+    {
+        "City1": 42,
+        "City2": 97,
+        "Name": "Road 42-97",
+        "Dist": 274.72963992409706,
+        "Local": true
+    },
+    {
+        "City1": 43,
+        "City2": 67,
+        "Name": "Road 43-67",
+        "Dist": 111.80340517397318,
+        "Local": true
+    },
+    {
+        "City1": 44,
+        "City2": 79,
+        "Name": "Road 44-79",
+        "Dist": 301.1105514654776,
+        "Local": true
+    },
+    {
+        "City1": 47,
+        "City2": 12,
+        "Name": "Road 47-12",
+        "Dist": 82.80339630918714,
+        "Local": true
+    },
+    {
+        "City1": 52,
+        "City2": 3,
+        "Name": "Road 52-3",
+        "Dist": 38.28970077300137,
+        "Local": true
+    },
+    {
+        "City1": 53,
+        "City2": 72,
+        "Name": "Road 53-72",
+        "Dist": 41.830583109840035,
+        "Local": true
+    },
+    {
+        "City1": 54,
+        "City2": 84,
+        "Name": "Road 54-84",
+        "Dist": 53.445217004286896,
+        "Local": true
+    },
+    {
+        "City1": 55,
+        "City2": 78,
+        "Name": "Road 55-78",
+        "Dist": 340.48335785173316,
+        "Local": true
+    },
+    {
+        "City1": 56,
+        "City2": 60,
+        "Name": "Road 56-60",
+        "Dist": 94.10779861059146,
+        "Local": true
+    },
+    {
+        "City1": 57,
+        "City2": 82,
+        "Name": "Road 57-82",
+        "Dist": 174.11251512433293,
+        "Local": true
+    },
+    {
+        "City1": 58,
+        "City2": 76,
+        "Name": "Road 58-76",
+        "Dist": 335.3745995802162,
+        "Local": true
+    },
+    {
+        "City1": 59,
+        "City2": 19,
+        "Name": "Road 59-19",
+        "Dist": 202.81251568887234,
+        "Local": true
+    },
+    {
+        "City1": 63,
+        "City2": 82,
+        "Name": "Road 63-82",
+        "Dist": 279.8745843461541,
+        "Local": true
+    },
+    {
+        "City1": 64,
+        "City2": 66,
+        "Name": "Road 64-66",
+        "Dist": 200.67072192022184,
+        "Local": true
+    },
+    {
+        "City1": 65,
+        "City2": 0,
+        "Name": "Road 65-0",
+        "Dist": 111.05350294938248,
+        "Local": true
+    },
+    {
+        "City1": 67,
+        "City2": 51,
+        "Name": "Road 67-51",
+        "Dist": 38.72625780105237,
+        "Local": true
+    },
+    {
+        "City1": 69,
+        "City2": 19,
+        "Name": "Road 69-19",
+        "Dist": 104.28515880057908,
+        "Local": true
+    },
+    {
+        "City1": 70,
+        "City2": 18,
+        "Name": "Road 70-18",
+        "Dist": 451.76019436900856,
+        "Local": true
+    },
+    {
+        "City1": 73,
+        "City2": 0,
+        "Name": "Road 73-0",
+        "Dist": 193.3775428695791,
+        "Local": true
+    },
+    {
+        "City1": 75,
+        "City2": 20,
+        "Name": "Road 75-20",
+        "Dist": 88.94270889894754,
+        "Local": true
+    },
+    {
+        "City1": 77,
+        "City2": 74,
+        "Name": "Road 77-74",
+        "Dist": 45.835281992265614,
+        "Local": true
+    },
+    {
+        "City1": 80,
+        "City2": 14,
+        "Name": "Road 80-14",
+        "Dist": 81.55151740275498,
+        "Local": true
+    },
+    {
+        "City1": 81,
+        "City2": 63,
+        "Name": "Road 81-63",
+        "Dist": 185.4503165837938,
+        "Local": true
+    },
+    {
+        "City1": 84,
+        "City2": 31,
+        "Name": "Road 84-31",
+        "Dist": 212.16483827723212,
+        "Local": true
+    },
+    {
+        "City1": 86,
+        "City2": 65,
+        "Name": "Road 86-65",
+        "Dist": 111.6990154458873,
+        "Local": true
+    },
+    {
+        "City1": 87,
+        "City2": 48,
+        "Name": "Road 87-48",
+        "Dist": 36.38077161425051,
+        "Local": true
+    },
+    {
+        "City1": 88,
+        "City2": 16,
+        "Name": "Road 88-16",
+        "Dist": 164.78516105315336,
+        "Local": true
+    },
+    {
+        "City1": 90,
+        "City2": 20,
+        "Name": "Road 90-20",
+        "Dist": 93.80181150474078,
+        "Local": true
+    },
+    {
+        "City1": 91,
+        "City2": 66,
+        "Name": "Road 91-66",
+        "Dist": 143.8506345028729,
+        "Local": true
+    },
+    {
+        "City1": 92,
+        "City2": 68,
+        "Name": "Road 92-68",
+        "Dist": 48.19751287485605,
+        "Local": true
+    },
+    {
+        "City1": 93,
+        "City2": 6,
+        "Name": "Road 93-6",
+        "Dist": 295.2858314867521,
+        "Local": true
+    },
+    {
+        "City1": 98,
+        "City2": 31,
+        "Name": "Road 98-31",
+        "Dist": 65.84173950841007,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 98,
+        "Name": "Road 1-98",
+        "Dist": 310.130254501987,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 75,
+        "Name": "Road 2-75",
+        "Dist": 150.76016319507065,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 31,
+        "Name": "Road 3-31",
+        "Dist": 69.4135472188634,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 64,
+        "Name": "Road 4-64",
+        "Dist": 103.55599862990569,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 98,
+        "Name": "Road 7-98",
+        "Dist": 190.35691031513855,
+        "Local": true
+    },
+    {
+        "City1": 8,
+        "City2": 76,
+        "Name": "Road 8-76",
+        "Dist": 91.84561961068817,
+        "Local": true
+    },
+    {
+        "City1": 11,
+        "City2": 25,
+        "Name": "Road 11-25",
+        "Dist": 71.48167605042508,
+        "Local": true
+    },
+    {
+        "City1": 12,
+        "City2": 32,
+        "Name": "Road 12-32",
+        "Dist": 62.02917434742526,
+        "Local": true
+    },
+    {
+        "City1": 13,
+        "City2": 85,
+        "Name": "Road 13-85",
+        "Dist": 55.356999754979945,
+        "Local": true
+    },
+    {
+        "City1": 14,
+        "City2": 72,
+        "Name": "Road 14-72",
+        "Dist": 94.10482674352694,
+        "Local": true
+    },
+    {
+        "City1": 15,
+        "City2": 37,
+        "Name": "Road 15-37",
+        "Dist": 124.06677651549555,
+        "Local": true
+    },
+    {
+        "City1": 16,
+        "City2": 90,
+        "Name": "Road 16-90",
+        "Dist": 191.10553166467432,
+        "Local": true
+    },
+    {
+        "City1": 17,
+        "City2": 95,
+        "Name": "Road 17-95",
+        "Dist": 97.58145960430689,
+        "Local": true
+    },
+    {
+        "City1": 18,
+        "City2": 71,
+        "Name": "Road 18-71",
+        "Dist": 38.63528279916757,
+        "Local": true
+    },
+    {
+        "City1": 19,
+        "City2": 93,
+        "Name": "Road 19-93",
+        "Dist": 252.5778312861631,
+        "Local": true
+    },
+    {
+        "City1": 21,
+        "City2": 60,
+        "Name": "Road 21-60",
+        "Dist": 46.536534057197834,
+        "Local": true
+    },
+    {
+        "City1": 22,
+        "City2": 55,
+        "Name": "Road 22-55",
+        "Dist": 254.95590339566522,
+        "Local": true
+    },
+    {
+        "City1": 23,
+        "City2": 66,
+        "Name": "Road 23-66",
+        "Dist": 157.8696687471174,
+        "Local": true
+    },
+    {
+        "City1": 24,
+        "City2": 94,
+        "Name": "Road 24-94",
+        "Dist": 207.93196904617176,
+        "Local": true
+    },
+    {
+        "City1": 25,
+        "City2": 34,
+        "Name": "Road 25-34",
+        "Dist": 102.49317010332908,
+        "Local": true
+    },
+    {
+        "City1": 26,
+        "City2": 50,
+        "Name": "Road 26-50",
+        "Dist": 157.95197622193652,
+        "Local": true
+    },
+    {
+        "City1": 27,
+        "City2": 83,
+        "Name": "Road 27-83",
+        "Dist": 116.39432529421282,
+        "Local": true
+    },
+    {
+        "City1": 29,
+        "City2": 45,
+        "Name": "Road 29-45",
+        "Dist": 136.1498131991566,
+        "Local": true
+    },
+    {
+        "City1": 30,
+        "City2": 93,
+        "Name": "Road 30-93",
+        "Dist": 77.05084905498366,
+        "Local": true
+    },
+    {
+        "City1": 32,
+        "City2": 87,
+        "Name": "Road 32-87",
+        "Dist": 54.71457481513338,
+        "Local": true
+    },
+    {
+        "City1": 33,
+        "City2": 40,
+        "Name": "Road 33-40",
+        "Dist": 85.45542831854117,
+        "Local": true
+    },
+    {
+        "City1": 34,
+        "City2": 58,
+        "Name": "Road 34-58",
+        "Dist": 58.62892938082954,
+        "Local": true
+    },
+    {
+        "City1": 35,
+        "City2": 84,
+        "Name": "Road 35-84",
+        "Dist": 86.763979278631,
+        "Local": true
+    },
+    {
+        "City1": 36,
+        "City2": 60,
+        "Name": "Road 36-60",
+        "Dist": 9.59418624728201,
+        "Local": true
+    },
+    {
+        "City1": 37,
+        "City2": 73,
+        "Name": "Road 37-73",
+        "Dist": 345.0481916891548,
+        "Local": true
+    },
+    {
+        "City1": 39,
+        "City2": 20,
+        "Name": "Road 39-20",
+        "Dist": 115.15716093373,
+        "Local": true
+    },
+    {
+        "City1": 40,
+        "City2": 78,
+        "Name": "Road 40-78",
+        "Dist": 47.453227113461,
+        "Local": true
+    },
+    {
+        "City1": 41,
+        "City2": 68,
+        "Name": "Road 41-68",
+        "Dist": 143.2484391736229,
+        "Local": true
+    },
+    {
+        "City1": 42,
+        "City2": 79,
+        "Name": "Road 42-79",
+        "Dist": 60.30607882722963,
+        "Local": true
+    },
+    {
+        "City1": 45,
+        "City2": 51,
+        "Name": "Road 45-51",
+        "Dist": 26.962154670664578,
+        "Local": true
+    },
+    {
+        "City1": 46,
+        "City2": 76,
+        "Name": "Road 46-76",
+        "Dist": 108.41539774763977,
+        "Local": true
+    },
+    {
+        "City1": 47,
+        "City2": 87,
+        "Name": "Road 47-87",
+        "Dist": 37.18918887976808,
+        "Local": true
+    },
+    {
+        "City1": 49,
+        "City2": 64,
+        "Name": "Road 49-64",
+        "Dist": 95.1140376195221,
+        "Local": true
+    },
+    {
+        "City1": 51,
+        "City2": 55,
+        "Name": "Road 51-55",
+        "Dist": 31.156245317241048,
+        "Local": true
+    },
+    {
+        "City1": 52,
+        "City2": 98,
+        "Name": "Road 52-98",
+        "Dist": 44.63398970300176,
+        "Local": true
+    },
+    {
+        "City1": 54,
+        "City2": 35,
+        "Name": "Road 54-35",
+        "Dist": 66.35532483632996,
+        "Local": true
+    },
+    {
+        "City1": 57,
+        "City2": 10,
+        "Name": "Road 57-10",
+        "Dist": 142.11490839375142,
+        "Local": true
+    },
+    {
+        "City1": 61,
+        "City2": 97,
+        "Name": "Road 61-97",
+        "Dist": 142.4498331158187,
+        "Local": true
+    },
+    {
+        "City1": 65,
+        "City2": 37,
+        "Name": "Road 65-37",
+        "Dist": 262.5985057079716,
+        "Local": true
+    },
+    {
+        "City1": 70,
+        "City2": 27,
+        "Name": "Road 70-27",
+        "Dist": 88.968336115289,
+        "Local": true
+    },
+    {
+        "City1": 76,
+        "City2": 72,
+        "Name": "Road 76-72",
+        "Dist": 57.40532012182711,
+        "Local": true
+    },
+    {
+        "City1": 77,
+        "City2": 82,
+        "Name": "Road 77-82",
+        "Dist": 148.5057467708427,
+        "Local": true
+    },
+    {
+        "City1": 78,
+        "City2": 22,
+        "Name": "Road 78-22",
+        "Dist": 88.19143473250318,
+        "Local": true
+    },
+    {
+        "City1": 80,
+        "City2": 52,
+        "Name": "Road 80-52",
+        "Dist": 83.20212401180822,
+        "Local": true
+    },
+    {
+        "City1": 81,
+        "City2": 66,
+        "Name": "Road 81-66",
+        "Dist": 56.94699493557304,
+        "Local": true
+    },
+    {
+        "City1": 86,
+        "City2": 73,
+        "Name": "Road 86-73",
+        "Dist": 92.26344736370548,
+        "Local": true
+    },
+    {
+        "City1": 88,
+        "City2": 21,
+        "Name": "Road 88-21",
+        "Dist": 127.33725459938111,
+        "Local": true
+    },
+    {
+        "City1": 91,
+        "City2": 49,
+        "Name": "Road 91-49",
+        "Dist": 155.59762473534855,
+        "Local": true
+    },
+    {
+        "City1": 92,
+        "City2": 26,
+        "Name": "Road 92-26",
+        "Dist": 18.893995096463723,
+        "Local": true
+    },
+    {
+        "City1": 94,
+        "City2": 40,
+        "Name": "Road 94-40",
+        "Dist": 117.33758868020239,
+        "Local": true
+    },
+    {
+        "City1": 95,
+        "City2": 60,
+        "Name": "Road 95-60",
+        "Dist": 75.42265111035147,
+        "Local": true
+    },
+    {
+        "City1": 99,
+        "City2": 51,
+        "Name": "Road 99-51",
+        "Dist": 28.63367446573447,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 84,
+        "Name": "Road 1-84",
+        "Dist": 32.92820639803366,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 7,
+        "Name": "Road 3-7",
+        "Dist": 187.8477567274114,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 66,
+        "Name": "Road 4-66",
+        "Dist": 166.19701245242453,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 35,
+        "Name": "Road 5-35",
+        "Dist": 44.180290243602386,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 92,
+        "Name": "Road 6-92",
+        "Dist": 82.285177371979,
+        "Local": true
+    },
+    {
+        "City1": 8,
+        "City2": 72,
+        "Name": "Road 8-72",
+        "Dist": 145.53816575133914,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 33,
+        "Name": "Road 9-33",
+        "Dist": 151.56941078885458,
+        "Local": true
+    },
+    {
+        "City1": 11,
+        "City2": 58,
+        "Name": "Road 11-58",
+        "Dist": 129.70858803188898,
+        "Local": true
+    },
+    {
+        "City1": 13,
+        "City2": 73,
+        "Name": "Road 13-73",
+        "Dist": 122.14011225198861,
+        "Local": true
+    },
+    {
+        "City1": 15,
+        "City2": 42,
+        "Name": "Road 15-42",
+        "Dist": 139.08988492302012,
+        "Local": true
+    },
+    {
+        "City1": 16,
+        "City2": 43,
+        "Name": "Road 16-43",
+        "Dist": 170.51294010618076,
+        "Local": true
+    },
+    {
+        "City1": 17,
+        "City2": 36,
+        "Name": "Road 17-36",
+        "Dist": 171.3093486287611,
+        "Local": true
+    },
+    {
+        "City1": 18,
+        "City2": 47,
+        "Name": "Road 18-47",
+        "Dist": 32.98774100301332,
+        "Local": true
+    },
+    {
+        "City1": 21,
+        "City2": 83,
+        "Name": "Road 21-83",
+        "Dist": 66.59506002672651,
+        "Local": true
+    },
+    {
+        "City1": 22,
+        "City2": 67,
+        "Name": "Road 22-67",
+        "Dist": 247.66195350072638,
+        "Local": true
+    },
+    {
+        "City1": 23,
+        "City2": 81,
+        "Name": "Road 23-81",
+        "Dist": 176.99189476443627,
+        "Local": true
+    },
+    {
+        "City1": 24,
+        "City2": 33,
+        "Name": "Road 24-33",
+        "Dist": 266.8057559657418,
+        "Local": true
+    },
+    {
+        "City1": 27,
+        "City2": 60,
+        "Name": "Road 27-60",
+        "Dist": 136.603533423397,
+        "Local": true
+    },
+    {
+        "City1": 28,
+        "City2": 47,
+        "Name": "Road 28-47",
+        "Dist": 87.56069801887637,
+        "Local": true
+    },
+    {
+        "City1": 29,
+        "City2": 67,
+        "Name": "Road 29-67",
+        "Dist": 115.39828104912581,
+        "Local": true
+    },
+    {
+        "City1": 30,
+        "City2": 54,
+        "Name": "Road 30-54",
+        "Dist": 52.63300081303236,
+        "Local": true
+    },
+    {
+        "City1": 33,
+        "City2": 22,
+        "Name": "Road 33-22",
+        "Dist": 71.16845056528159,
+        "Local": true
+    },
+    {
+        "City1": 35,
+        "City2": 1,
+        "Name": "Road 35-1",
+        "Dist": 57.76754662967536,
+        "Local": true
+    },
+    {
+        "City1": 36,
+        "City2": 83,
+        "Name": "Road 36-83",
+        "Dist": 24.61715516320346,
+        "Local": true
+    },
+    {
+        "City1": 38,
+        "City2": 42,
+        "Name": "Road 38-42",
+        "Dist": 186.18280248757148,
+        "Local": true
+    },
+    {
+        "City1": 39,
+        "City2": 75,
+        "Name": "Road 39-75",
+        "Dist": 84.682673335259,
+        "Local": true
+    },
+    {
+        "City1": 41,
+        "City2": 92,
+        "Name": "Road 41-92",
+        "Dist": 99.59425292681664,
+        "Local": true
+    },
+    {
+        "City1": 42,
+        "City2": 96,
+        "Name": "Road 42-96",
+        "Dist": 116.60256741587445,
+        "Local": true
+    },
+    {
+        "City1": 43,
+        "City2": 51,
+        "Name": "Road 43-51",
+        "Dist": 84.1890454900723,
+        "Local": true
+    },
+    {
+        "City1": 44,
+        "City2": 65,
+        "Name": "Road 44-65",
+        "Dist": 125.10907581601111,
+        "Local": true
+    },
+    {
+        "City1": 46,
+        "City2": 25,
+        "Name": "Road 46-25",
+        "Dist": 184.0460074620735,
+        "Local": true
+    },
+    {
+        "City1": 48,
+        "City2": 32,
+        "Name": "Road 48-32",
+        "Dist": 29.717464806569687,
+        "Local": true
+    },
+    {
+        "City1": 52,
+        "City2": 31,
+        "Name": "Road 52-31",
+        "Dist": 106.45555375370164,
+        "Local": true
+    },
+    {
+        "City1": 53,
+        "City2": 76,
+        "Name": "Road 53-76",
+        "Dist": 98.95570023294633,
+        "Local": true
+    },
+    {
+        "City1": 56,
+        "City2": 36,
+        "Name": "Road 56-36",
+        "Dist": 95.97178339744687,
+        "Local": true
+    },
+    {
+        "City1": 57,
+        "City2": 74,
+        "Name": "Road 57-74",
+        "Dist": 52.81882920316051,
+        "Local": true
+    },
+    {
+        "City1": 59,
+        "City2": 0,
+        "Name": "Road 59-0",
+        "Dist": 171.834264622891,
+        "Local": true
+    },
+    {
+        "City1": 61,
+        "City2": 50,
+        "Name": "Road 61-50",
+        "Dist": 131.9061488994546,
+        "Local": true
+    },
+    {
+        "City1": 62,
+        "City2": 47,
+        "Name": "Road 62-47",
+        "Dist": 36.24719626701525,
+        "Local": true
+    },
+    {
+        "City1": 63,
+        "City2": 49,
+        "Name": "Road 63-49",
+        "Dist": 161.10946808656934,
+        "Local": true
+    },
+    {
+        "City1": 65,
+        "City2": 19,
+        "Name": "Road 65-19",
+        "Dist": 165.2293636191776,
+        "Local": true
+    },
+    {
+        "City1": 67,
+        "City2": 55,
+        "Name": "Road 67-55",
+        "Dist": 33.57490847608632,
+        "Local": true
+    },
+    {
+        "City1": 69,
+        "City2": 0,
+        "Name": "Road 69-0",
+        "Dist": 91.30186613802316,
+        "Local": true
+    },
+    {
+        "City1": 70,
+        "City2": 56,
+        "Name": "Road 70-56",
+        "Dist": 128.86553060772064,
+        "Local": true
+    },
+    {
+        "City1": 71,
+        "City2": 47,
+        "Name": "Road 71-47",
+        "Dist": 71.21423230198468,
+        "Local": true
+    },
+    {
+        "City1": 75,
+        "City2": 90,
+        "Name": "Road 75-90",
+        "Dist": 25.74284085421335,
+        "Local": true
+    },
+    {
+        "City1": 79,
+        "City2": 96,
+        "Name": "Road 79-96",
+        "Dist": 176.62553568110454,
+        "Local": true
+    },
+    {
+        "City1": 80,
+        "City2": 3,
+        "Name": "Road 80-3",
+        "Dist": 109.48292144135505,
+        "Local": true
+    },
+    {
+        "City1": 81,
+        "City2": 82,
+        "Name": "Road 81-82",
+        "Dist": 115.74367263349241,
+        "Local": true
+    },
+    {
+        "City1": 85,
+        "City2": 69,
+        "Name": "Road 85-69",
+        "Dist": 121.23571522248596,
+        "Local": true
+    },
+    {
+        "City1": 86,
+        "City2": 75,
+        "Name": "Road 86-75",
+        "Dist": 171.1593555512647,
+        "Local": true
+    },
+    {
+        "City1": 88,
+        "City2": 95,
+        "Name": "Road 88-95",
+        "Dist": 93.65609334384966,
+        "Local": true
+    },
+    {
+        "City1": 94,
+        "City2": 22,
+        "Name": "Road 94-22",
+        "Dist": 144.0369960008108,
+        "Local": true
+    },
+    {
+        "City1": 95,
+        "City2": 83,
+        "Name": "Road 95-83",
+        "Dist": 56.81896325067301,
+        "Local": true
+    },
+    {
+        "City1": 97,
+        "City2": 96,
+        "Name": "Road 97-96",
+        "Dist": 161.26052013190838,
+        "Local": true
+    },
+    {
+        "City1": 99,
+        "City2": 97,
+        "Name": "Road 99-97",
+        "Dist": 66.58535377793255,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 86,
+        "Name": "Road 2-86",
+        "Dist": 130.08346107678997,
+        "Local": true
+    },
+    {
+        "City1": 4,
+        "City2": 49,
+        "Name": "Road 4-49",
+        "Dist": 193.3248304858625,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 84,
+        "Name": "Road 5-84",
+        "Dist": 127.10684136880246,
+        "Local": true
+    },
+    {
+        "City1": 6,
+        "City2": 26,
+        "Name": "Road 6-26",
+        "Dist": 84.34865847862598,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 52,
+        "Name": "Road 7-52",
+        "Dist": 156.0868292358495,
+        "Local": true
+    },
+    {
+        "City1": 8,
+        "City2": 14,
+        "Name": "Road 8-14",
+        "Dist": 178.57727289038615,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 29,
+        "Name": "Road 9-29",
+        "Dist": 192.4865686194121,
+        "Local": true
+    },
+    {
+        "City1": 11,
+        "City2": 34,
+        "Name": "Road 11-34",
+        "Dist": 161.0711063990892,
+        "Local": true
+    },
+    {
+        "City1": 12,
+        "City2": 83,
+        "Name": "Road 12-83",
+        "Dist": 214.2395467041141,
+        "Local": true
+    },
+    {
+        "City1": 13,
+        "City2": 65,
+        "Name": "Road 13-65",
+        "Dist": 129.26556676809298,
+        "Local": true
+    },
+    {
+        "City1": 14,
+        "City2": 25,
+        "Name": "Road 14-25",
+        "Dist": 173.33964526179085,
+        "Local": true
+    },
+    {
+        "City1": 15,
+        "City2": 97,
+        "Name": "Road 15-97",
+        "Dist": 144.42023221771734,
+        "Local": true
+    },
+    {
+        "City1": 17,
+        "City2": 60,
+        "Name": "Road 17-60",
+        "Dist": 172.59328988094867,
+        "Local": true
+    },
+    {
+        "City1": 18,
+        "City2": 48,
+        "Name": "Road 18-48",
+        "Dist": 36.752812699895955,
+        "Local": true
+    },
+    {
+        "City1": 23,
+        "City2": 82,
+        "Name": "Road 23-82",
+        "Dist": 204.9152860704516,
+        "Local": true
+    },
+    {
+        "City1": 24,
+        "City2": 40,
+        "Name": "Road 24-40",
+        "Dist": 319.8566041324345,
+        "Local": true
+    },
+    {
+        "City1": 26,
+        "City2": 93,
+        "Name": "Road 26-93",
+        "Dist": 222.19304271921087,
+        "Local": true
+    },
+    {
+        "City1": 27,
+        "City2": 36,
+        "Name": "Road 27-36",
+        "Dist": 138.78334414718927,
+        "Local": true
+    },
+    {
+        "City1": 28,
+        "City2": 48,
+        "Name": "Road 28-48",
+        "Dist": 92.99438065325015,
+        "Local": true
+    },
+    {
+        "City1": 29,
+        "City2": 51,
+        "Name": "Road 29-51",
+        "Dist": 154.07008014648204,
+        "Local": true
+    },
+    {
+        "City1": 30,
+        "City2": 37,
+        "Name": "Road 30-37",
+        "Dist": 88.60460408394474,
+        "Local": true
+    },
+    {
+        "City1": 33,
+        "City2": 78,
+        "Name": "Road 33-78",
+        "Dist": 131.9124814962307,
+        "Local": true
+    },
+    {
+        "City1": 34,
+        "City2": 74,
+        "Name": "Road 34-74",
+        "Dist": 86.75989262007667,
+        "Local": true
+    },
+    {
+        "City1": 38,
+        "City2": 97,
+        "Name": "Road 38-97",
+        "Dist": 93.55084537132701,
+        "Local": true
+    },
+    {
+        "City1": 39,
+        "City2": 32,
+        "Name": "Road 39-32",
+        "Dist": 108.70073570155446,
+        "Local": true
+    },
+    {
+        "City1": 40,
+        "City2": 61,
+        "Name": "Road 40-61",
+        "Dist": 170.88679507016562,
+        "Local": true
+    },
+    {
+        "City1": 41,
+        "City2": 26,
+        "Name": "Road 41-26",
+        "Dist": 100.97237160473618,
+        "Local": true
+    },
+    {
+        "City1": 44,
+        "City2": 73,
+        "Name": "Road 44-73",
+        "Dist": 68.23209860734089,
+        "Local": true
+    },
+    {
+        "City1": 45,
+        "City2": 55,
+        "Name": "Road 45-55",
+        "Dist": 43.95841385810579,
+        "Local": true
+    },
+    {
+        "City1": 46,
+        "City2": 72,
+        "Name": "Road 46-72",
+        "Dist": 154.91242937351106,
+        "Local": true
+    },
+    {
+        "City1": 50,
+        "City2": 92,
+        "Name": "Road 50-92",
+        "Dist": 164.34986363644853,
+        "Local": true
+    },
+    {
+        "City1": 53,
+        "City2": 52,
+        "Name": "Road 53-52",
+        "Dist": 177.93858009654144,
+        "Local": true
+    },
+    {
+        "City1": 54,
+        "City2": 10,
+        "Name": "Road 54-10",
+        "Dist": 68.98572946326792,
+        "Local": true
+    },
+    {
+        "City1": 56,
+        "City2": 95,
+        "Name": "Road 56-95",
+        "Dist": 26.83718585798411,
+        "Local": true
+    },
+    {
+        "City1": 57,
+        "City2": 35,
+        "Name": "Road 57-35",
+        "Dist": 162.07579204102692,
+        "Local": true
+    },
+    {
+        "City1": 59,
+        "City2": 73,
+        "Name": "Road 59-73",
+        "Dist": 81.54769509090747,
+        "Local": true
+    },
+    {
+        "City1": 61,
+        "City2": 26,
+        "Name": "Road 61-26",
+        "Dist": 61.45751591629696,
+        "Local": true
+    },
+    {
+        "City1": 62,
+        "City2": 48,
+        "Name": "Road 62-48",
+        "Dist": 44.21732630508644,
+        "Local": true
+    },
+    {
+        "City1": 63,
+        "City2": 66,
+        "Name": "Road 63-66",
+        "Dist": 181.39885190602897,
+        "Local": true
+    },
+    {
+        "City1": 64,
+        "City2": 63,
+        "Name": "Road 64-63",
+        "Dist": 132.06659562924222,
+        "Local": true
+    },
+    {
+        "City1": 67,
+        "City2": 99,
+        "Name": "Road 67-99",
+        "Dist": 67.08283661371014,
+        "Local": true
+    },
+    {
+        "City1": 69,
+        "City2": 73,
+        "Name": "Road 69-73",
+        "Dist": 155.38071033920767,
+        "Local": true
+    },
+    {
+        "City1": 70,
+        "City2": 95,
+        "Name": "Road 70-95",
+        "Dist": 155.1333204880015,
+        "Local": true
+    },
+    {
+        "City1": 71,
+        "City2": 48,
+        "Name": "Road 71-48",
+        "Dist": 73.63676574789616,
+        "Local": true
+    },
+    {
+        "City1": 77,
+        "City2": 57,
+        "Name": "Road 77-57",
+        "Dist": 93.82572703696754,
+        "Local": true
+    },
+    {
+        "City1": 79,
+        "City2": 0,
+        "Name": "Road 79-0",
+        "Dist": 106.20653524395578,
+        "Local": true
+    },
+    {
+        "City1": 80,
+        "City2": 98,
+        "Name": "Road 80-98",
+        "Dist": 117.63456470988754,
+        "Local": true
+    },
+    {
+        "City1": 81,
+        "City2": 91,
+        "Name": "Road 81-91",
+        "Dist": 187.26528709025095,
+        "Local": true
+    },
+    {
+        "City1": 85,
+        "City2": 59,
+        "Name": "Road 85-59",
+        "Dist": 97.05690963989328,
+        "Local": true
+    },
+    {
+        "City1": 87,
+        "City2": 18,
+        "Name": "Road 87-18",
+        "Dist": 70.00466941222307,
+        "Local": true
+    },
+    {
+        "City1": 88,
+        "City2": 36,
+        "Name": "Road 88-36",
+        "Dist": 106.17741615237932,
+        "Local": true
+    },
+    {
+        "City1": 89,
+        "City2": 1,
+        "Name": "Road 89-1",
+        "Dist": 198.61888773606807,
+        "Local": true
+    },
+    {
+        "City1": 91,
+        "City2": 63,
+        "Name": "Road 91-63",
+        "Dist": 135.87335652475335,
+        "Local": true
+    },
+    {
+        "City1": 94,
+        "City2": 78,
+        "Name": "Road 94-78",
+        "Dist": 138.18594675830184,
+        "Local": true
+    }
+]

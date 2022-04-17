@@ -1,0 +1,79 @@
+[
+    {
+        "City1": 0,
+        "City2": 4,
+        "Name": "Road 0-4",
+        "Dist": 12.074971319766552,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 6,
+        "Name": "Road 1-6",
+        "Dist": 62.57359066764192,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 8,
+        "Name": "Road 2-8",
+        "Dist": 58.670594250324555,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 4,
+        "Name": "Road 3-4",
+        "Dist": 49.89381427684534,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 8,
+        "Name": "Road 5-8",
+        "Dist": 12.667436850527253,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 0,
+        "Name": "Road 7-0",
+        "Dist": 21.744675526513287,
+        "Local": true
+    },
+    {
+        "City1": 9,
+        "City2": 1,
+        "Name": "Road 9-1",
+        "Dist": 19.83709380810673,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 5,
+        "Name": "Road 2-5",
+        "Dist": 71.30357441758706,
+        "Local": true
+    },
+    {
+        "City1": 3,
+        "City2": 0,
+        "Name": "Road 3-0",
+        "Dist": 49.50489882767593,
+        "Local": true
+    },
+    {
+        "City1": 5,
+        "City2": 6,
+        "Name": "Road 5-6",
+        "Dist": 17.795806010503977,
+        "Local": true
+    },
+    {
+        "City1": 7,
+        "City2": 9,
+        "Name": "Road 7-9",
+        "Dist": 42.49154717241027,
+        "Local": true
+    }
+]

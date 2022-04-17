@@ -1,0 +1,23 @@
+[
+    {
+        "City1": 0,
+        "City2": 3,
+        "Name": "Road 0-3",
+        "Dist": 1.9025509982986921,
+        "Local": true
+    },
+    {
+        "City1": 1,
+        "City2": 0,
+        "Name": "Road 1-0",
+        "Dist": 9.680575381395252,
+        "Local": true
+    },
+    {
+        "City1": 2,
+        "City2": 3,
+        "Name": "Road 2-3",
+        "Dist": 7.272641165736859,
+        "Local": true
+    }
+]
