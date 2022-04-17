@@ -12,7 +12,7 @@ Weighted graph:
 
 There is also a common `Graph` interface for both the unweighted and weighted graphs to implement.
 
-A test suite is provided which gives solutions to each algorithm.
+A test suite is provided which gives solutions to each algorithm. Your objective is to make every test pass.
 
 ### Unweighted Graph
 The unweighted graph includes several methods to create new nodes and connections between nodes. 
