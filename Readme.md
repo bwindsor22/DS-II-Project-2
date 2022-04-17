@@ -47,8 +47,8 @@ Some of the larger test cases have highways that span between groups of closely 
 I have included the python files used to generate the test cases. No work is required with these files.
 
 ### Potentially useful pages:
-https://www.baeldung.com/jackson-object-mapper-tutorial
-https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
-https://en.wikipedia.org/wiki/Breadth-first_search
-https://en.wikipedia.org/wiki/Depth-first_search
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+* https://www.baeldung.com/jackson-object-mapper-tutorial
+* https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html
+* https://en.wikipedia.org/wiki/Breadth-first_search
+* https://en.wikipedia.org/wiki/Depth-first_search
+* https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
