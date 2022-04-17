@@ -7,6 +7,7 @@ Unweighted graph:
 2. Depth first search
 
 Weighted graph:
+
 3. Dijkstra's Algorithm
 
 There is also a common `Graph` interface for both the unweighted and weighted graphs to implement.
